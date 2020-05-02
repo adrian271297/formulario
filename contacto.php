@@ -9,7 +9,7 @@
 	$cabeceras = "From: ingsisrmh"
 					. "Reply-To: $email";
 	$asunto = "Envío de comentario desde el sitio web";
-	$email_to = "ingsisrmh@gmail.com";
+	$email_to = "adrian271297@gmail.com";
 	$contenido = "$nombre ha enviado un mensaje desde la página web"
 				. "n"
 				. "Nombre: $nombre"
